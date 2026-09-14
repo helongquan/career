@@ -1,0 +1,15 @@
+.navbar.scrolling-navbar .navbar-nav > li {
+    padding: 0px 1rem !important;
+}
+.page-content img, .post-content img{
+	margin-bottom: 15px;
+	box-shadow: 0px 0px 10px 1px rgb(0 0 0 / 20%);
+}
+.post-content .markdown-body blockquote {
+    color: #42b983 !important;
+    background: #ecf8f2 !important;
+    padding: 15px !important;
+}
+.post-content .markdown-body blockquote {
+    border-left: .25em solid #42b983 !important;
+}
